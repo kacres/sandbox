@@ -20,5 +20,6 @@ assignees: ''
   * Use spin to create a development environment for web
   * View your development environment in your browser and navigate to the Orders > Abandoned checkouts page
   * Use VS Code to change the title or the description. A sample change is shown below.
-    <img src="/images/abandoned-cart.png?raw=true" alt="abandoned cart" width="200"/>
+    <br><img src="/images/abandoned-cart.png?raw=true" alt="abandoned cart" width="200"/>
+    <!---![abandoned_cart](/images/abandoned-cart.png?raw=true)--->
   * Post a screenshot of your change in the comment.
