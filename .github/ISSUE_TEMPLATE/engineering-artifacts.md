@@ -22,7 +22,7 @@ assignees: ''
   * Use VS Code to change the title or the description. A sample change is shown below.
     <br><img src="/images/abandoned-cart.png?raw=true" alt="abandoned cart" width="200"/>
     <!---![abandoned_cart](/images/abandoned-cart.png?raw=true)--->
-  * *Post a screenshot of your change in the comment.*
+  * Post a screen capture of your change
 - [ ] **GraphQL and Services Internal**
   * There is a Shopify store called ODR Training run by kyle.acres@shopify.com. In that store there is a product with an id: 6539208163350.
   * Use the graphiQL interface in services internal to write a graphQL query to find the title of this product.
@@ -33,3 +33,5 @@ assignees: ''
     1. Navigate to hydrogen.new where you will see three featured collections (Figure 1).
     2. Modify the GraphQL query to retrieve only the first 2 collections and also retrieve the description
     3. Adjust the FeaturedCollections to include the description using a Text component
+    4. Post a screen capture of your change
+    <br><img src="/images/hydrogen-graphQL-react.png?raw=true" alt="Hydrogen example" width="400"/>
