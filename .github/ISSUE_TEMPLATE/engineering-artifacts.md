@@ -13,7 +13,7 @@ assignees: ''
 2. For each task, submit your artifact as a new comment.
 3. In the comment, include the title of each task (the text in bold in the checklist)
 
-## Task Checklist:
+## Problem Tracker:
 - [ ] **My first PR** - provide a link to your first PR
 - [ ] **GSD and the Champion** - One role of GSD is the champion. Looking at various projects, you may have noticed that the champion can belong to any craft (ie Data, Engineering, Product or UX). *For a particular project, how is the ‘best champion’ for the job chosen?* 
 - [ ] **Spin Challenge**
